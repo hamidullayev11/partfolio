@@ -8,7 +8,7 @@ body {
 }
 
 .rasm {
-  background-image: url(/gold.jpg);
+  background-image: url(gold.jpg);
   height: 200px;
   background-position: center;
 }
@@ -98,7 +98,7 @@ img {
 }
 
 .div5 {
-  background-image: url(/gold.jpg);
+  background-image: url(gold.jpg);
   height: 300px;
   background-position: center;
 }
